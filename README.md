@@ -30,7 +30,7 @@
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Project-ff69b4?style=flat-square)](https://yourportfolio.com)
   
-  <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/mockup.png" alt="App Mockup" width="900"/>
+  <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/iPhone%2013%20Pro%20(1).png" alt="App Mockup" width="900"/>
   
 </div>
 
