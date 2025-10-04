@@ -1,4 +1,3 @@
-```markdown
 # 🍳 El Fayoumi Cart - Premium Egyptian Food Delivery Platform
 
 <div align="center">
