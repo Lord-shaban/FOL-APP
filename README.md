@@ -677,9 +677,9 @@ class menu_item_card extends StatelessWidget {
 
 <div align="center">
   
-### Portfolio Project by [Your Name]
+### Portfolio Project by Ahmed Shaban
 
-<img src="https://github.com/yourusername.png" width="150" style="border-radius: 50%;" alt="Developer"/>
+<img src="https://avatars.githubusercontent.com/u/189514970?v=4" width="150" style="border-radius: 50%;" alt="Developer"/>
 
 **Full Stack Flutter Developer | UI/UX Enthusiast | Open Source Contributor**
 
