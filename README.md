@@ -1,4 +1,3 @@
-```markdown
 # 🍳 عربية الفيومي - El Fayoumi Cart
 
 <div align="center">
