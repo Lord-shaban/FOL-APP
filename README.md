@@ -276,21 +276,21 @@ lib/
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/home.png" width="250" alt="Home Screen"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Home%20Screen.jpg" width="250" alt="Home Screen"/>
         <br />
         <b>Home Screen</b>
         <br />
         <i>Dynamic menu with categories</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/details.png" width="250" alt="Product Details"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Product%20Details.jpg" width="250" alt="Product Details"/>
         <br />
         <b>Product Details</b>
         <br />
         <i>Customization options</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/cart.png" width="250" alt="Shopping Cart"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Shopping%20Cart.jpg" width="250" alt="Shopping Cart"/>
         <br />
         <b>Shopping Cart</b>
         <br />
@@ -299,21 +299,21 @@ lib/
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/categories.png" width="250" alt="Categories"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Categories.jpg" width="250" alt="Categories"/>
         <br />
         <b>Categories</b>
         <br />
         <i>Filter by food type</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/popular.png" width="250" alt="Popular Items"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Popular%20Items.jpg" width="250" alt="Popular Items"/>
         <br />
         <b>Popular Items</b>
         <br />
         <i>Trending dishes</i>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/yourusername/el-fayoumi-cart/main/screenshots/success.png" width="250" alt="Order Success"/>
+        <img src="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/Order%20Confirmation.jpg" width="250" alt="Order Success"/>
         <br />
         <b>Order Confirmation</b>
         <br />
