@@ -518,7 +518,7 @@ flutter:
 
 ### 🎬 Video Demo
 
-<a href="https://www.youtube.com/watch?v=demo">
+<a href="https://github.com/Lord-shaban/FOL-APP/blob/master/screenshots/demo.mp4">
   <img src="https://img.youtube.com/vi/demo/maxresdefault.jpg" width="600" alt="Video Demo"/>
 </a>
 
